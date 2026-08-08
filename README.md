@@ -294,10 +294,6 @@ Interested in:
 * DSA
 * Software Development
 
-## ⭐ If You Like This Project
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
-
 ---
 
 **Made with Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📊**
