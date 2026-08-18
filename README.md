@@ -288,12 +288,6 @@ B.Tech CSE Student
 
 Interested in:
 
-* Python
-* Data Science
-* AI/ML
-* DSA
-* Software Development
 
----
 
 **Made with Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📊**
